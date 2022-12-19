@@ -1,0 +1,16 @@
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.exe
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.deps.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.runtimeconfig.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.runtimeconfig.dev.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\ref\PauloPaixaoProjeto3.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\bin\Debug\net5.0\PauloPaixaoProjeto3.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.csproj.AssemblyReference.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.AssemblyInfoInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.AssemblyInfo.cs
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.csproj.CoreCompileInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\ref\PauloPaixaoProjeto3.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto3\obj\Debug\net5.0\PauloPaixaoProjeto3.genruntimeconfig.cache
