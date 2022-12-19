@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Lista de compras</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-4 offset-4 bg-warning rounded-4 shadow-lg">
+
+                <header class="row">
+                    <div class="col-4">
+                        <h3 class="text-start mt-5 ms-3">Troptech Shopping List </h3>
+                    </div>
+                    <div class="col-8 text-end">
+                        <img src="images/logo.png" class="p-4" alt="Logo lista de compras" width="190">
+                    </div>
+                </header>
+
+                <section class="row">
+                    <div class="col-12 bg-white rounded-4 pb-4">
+                        <div class="row">
+                            <p class="col-5 text-start ms-3 mt-4 mb-4 fw-semibold">Minha lista</p>
+                            <p class="col-5 text-end ms-4 mt-4 mb-4 fw-semibold">Total: <span class="text-danger" id="valorTotal">R$ 0.00</span></p>
+                        </div>
+
+
+                        <div class="row mb-4">
+                            <div class="col-11 m-auto">
+
+                                <form method="post" id="formSearch">
+                                    <div
+                                        class="input-group rounded-5 bg-white border border-dark border-opacity-10 p-1">
+                                        <input type="text" class="form-control form-control-sm border-0 bg-transparent"
+                                            name="valorBuscado" placeholder="Buscar um produto" id="valorBuscado">
+                                        <button type="submit"
+                                            class="btn btn-outline-ligth btn-sm border-0 rounded-circle">
+                                            <i class="bi bi-search text-secondary"></i>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-12" id="novoProduto">
+
+                                <!-- LISTA DE PRODUTOS -->
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="row mt-5 sticky-bottom sticky-top">
+                            <div class="col-12">
+                                <a class="btn btn-warning rounded-pill col-8 shadow" href="#" role="button"
+                                    data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    Adicionar produto
+                                    <i class="bi bi-plus"></i>
+                                </a>
+                            </div>
+                        </div>
+
+
+                        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false"
+                            tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="staticBackdropLabel">Adicionar um produto</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                            aria-label="Close"></button>
+                                    </div>
+
+                                    <div class="modal-body text-start">
+                                        <form action="#" method="post" class="row g-3 mt-1" id="formProdutos">
+                                            <div class="col-12">
+                                                <label for="nome" class="form-label fw-bold">Nome</label>
+                                                <input type="text" class="form-control" name="nome" id="nome">
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <label for="quantidade" class="form-label fw-bold">Quantidade</label>
+                                                <input type="number" class="form-control" name="quantidade"
+                                                    id="quantidade">
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <label for="unidade" class="form-label fw-bold">Unidade</label>
+                                                <select class="form-select" name="unidade" id="unidade">
+                                                    <option value="Kg">Kg</option>
+                                                    <option value="Pacote(s)">Pacote(s)</option>
+                                                    <option value="Caixa(s)">Caixa(s)</option>
+                                                    <option value="Lata(s)">Lata(s)</option>
+                                                    <option value="Rolo(s)">Rolo(s)</option>
+                                                </select>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <label for="preco" class="form-label fw-bold">Preço</label>
+                                                <!-- <input type="text" class="form-control" name="preco" id="preco"> -->
+                                                <input type="number" min="1.00" step="0.01" class="form-control"
+                                                    name="preco" id="preco">
+                                            </div>
+
+                                            <div class="col-md-12">
+                                                <span id="resultado"></span>
+                                            </div>
+
+                                            <div class="col-12 text-end mb-3">
+                                                <input type="submit" class="btn btn-primary" value="Adicionar">
+                                            </div>
+                                        </form>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

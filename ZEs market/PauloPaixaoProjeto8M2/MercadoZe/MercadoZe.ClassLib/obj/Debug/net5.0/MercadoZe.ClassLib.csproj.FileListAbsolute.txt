@@ -1,0 +1,24 @@
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.deps.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.csproj.AssemblyReference.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.AssemblyInfoInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.AssemblyInfo.cs
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\refint\MercadoZe.ClassLib.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\M2A38\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\ref\MercadoZe.ClassLib.dll
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.deps.json
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.dll
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\bin\Debug\net5.0\MercadoZe.ClassLib.pdb
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.csproj.AssemblyReference.cache
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.AssemblyInfoInputs.cache
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.AssemblyInfo.cs
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.dll
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\refint\MercadoZe.ClassLib.dll
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\MercadoZe.ClassLib.pdb
+C:\Users\paulo.henrique\Desktop\TropTec_\Modulo 2\PauloPaixaoProjeto8M2\MercadoZe\MercadoZe.ClassLib\obj\Debug\net5.0\ref\MercadoZe.ClassLib.dll
