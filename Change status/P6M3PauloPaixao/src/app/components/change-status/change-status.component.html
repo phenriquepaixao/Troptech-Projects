@@ -1,0 +1,19 @@
+<!-- <app-view-status [valueStatus]="selectedStatus"></app-view-status> -->
+<section>
+    <h3>Atualizar Status</h3>
+
+    <!-- <select (change)="handleChange()">
+        <option value="0" selected>Selecione o status atual</option>
+        <option value="1">Pedido recebido</option>
+        <option value="2">Em preparação</option>
+        <option value="3">Pronto</option>
+        <option value="4">Entregue</option>
+    </select> -->
+    <select #status (change)="handleChange(status.value)">
+        <option value="0" selected>Selecione o status atual</option>
+        <option value="1">Pedido recebido</option>
+        <option value="2">Em preparação</option>
+        <option value="3">Pronto</option>
+        <option value="4">Entregue</option>
+    </select>
+</section>

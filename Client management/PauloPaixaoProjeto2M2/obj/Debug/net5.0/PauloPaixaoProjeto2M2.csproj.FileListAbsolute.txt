@@ -1,0 +1,32 @@
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.exe
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.deps.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.runtimeconfig.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.runtimeconfig.dev.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.csproj.AssemblyReference.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.AssemblyInfoInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.AssemblyInfo.cs
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.csproj.CoreCompileInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\refint\PauloPaixaoProjeto2M2.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.genruntimeconfig.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\ref\PauloPaixaoProjeto2M2.dll
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.exe
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.deps.json
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.runtimeconfig.json
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.runtimeconfig.dev.json
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.dll
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\bin\Debug\net5.0\PauloPaixaoProjeto2M2.pdb
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.csproj.AssemblyReference.cache
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.AssemblyInfoInputs.cache
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.AssemblyInfo.cs
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.csproj.CoreCompileInputs.cache
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.dll
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\refint\PauloPaixaoProjeto2M2.dll
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.pdb
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\PauloPaixaoProjeto2M2.genruntimeconfig.cache
+C:\Users\paulo.henrique\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto2M2\obj\Debug\net5.0\ref\PauloPaixaoProjeto2M2.dll

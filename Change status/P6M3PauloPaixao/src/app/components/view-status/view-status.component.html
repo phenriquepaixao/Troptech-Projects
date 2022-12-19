@@ -1,0 +1,14 @@
+<section>
+    <h2>Pedido: {{valueStatus}}</h2>
+    <h3>Status da Entrega</h3>
+
+    <ul>
+        <li *ngFor="let status of arrayStatus" [ngClass]="status.class">{{ status.index }}</li>
+    </ul>
+    <ol>
+        <li *ngFor="let status of arrayStatus" [ngStyle]="{'font-weight': status.style}">{{status.value}}</li>
+    </ol>
+
+</section>
+
+<app-change-status (statusPedido)="onChangeStatus($event)"></app-change-status>

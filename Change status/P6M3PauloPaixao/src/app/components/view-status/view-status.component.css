@@ -1,0 +1,43 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    list-style: none;
+    position: relative;
+}
+
+ul>li {
+    padding: 10px 15px;
+    border-radius: 50%;
+    background-color: rgb(207, 207, 207);
+    color: #fff;
+    font-weight: bold;
+}
+
+ul>li:nth-child(-n+3)::after {
+    content: '';
+    width: 57px;
+    height: 4px;
+    background-color: rgb(207, 207, 207);
+    position: absolute;
+    top: 17px;
+    margin-left: 20px;
+}
+
+ol {
+    text-align: left;
+    padding: 20px 20px 0 20px;
+}
+
+ol>li {
+    padding: 5px 0;
+}
+
+
+.started {
+    background-color: rgb(0, 133, 221) !important;
+}
+
+.finished {
+    background-color: rgb(0, 221, 66) !important;
+}
