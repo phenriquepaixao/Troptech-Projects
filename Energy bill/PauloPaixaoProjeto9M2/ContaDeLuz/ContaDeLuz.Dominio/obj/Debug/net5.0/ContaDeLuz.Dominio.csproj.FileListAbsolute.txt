@@ -1,0 +1,12 @@
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\bin\Debug\net5.0\ContaDeLuz.Dominio.deps.json
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\bin\Debug\net5.0\ContaDeLuz.Dominio.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\bin\Debug\net5.0\ContaDeLuz.Dominio.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.csproj.AssemblyReference.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.AssemblyInfoInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.AssemblyInfo.cs
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\refint\ContaDeLuz.Dominio.dll
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ContaDeLuz.Dominio.pdb
+C:\Users\Paulo estudos\OneDrive - NDD.Tech\TropTec\Modulo 2\PauloPaixaoProjeto9M2\ContaDeLuz\ContaDeLuz.Dominio\obj\Debug\net5.0\ref\ContaDeLuz.Dominio.dll
